@@ -1,2 +1,2 @@
 # tkws-portfolio
-A portfolio web site of TKWS.
+A portfolio website of TKWS.
